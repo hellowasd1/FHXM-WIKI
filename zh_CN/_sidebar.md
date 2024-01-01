@@ -1,0 +1,32 @@
+<!-- docs/zh_CN/_sidebar.md -->
+- **WIKI介绍**
+  - [📢本Wiki介绍](/zh_CN/README.md)
+- **服务器介绍**
+  - [📢服务器介绍](/Server_introduce/Basic_introduce.md)
+  - - [🍈繁花星梦·冒险篇](/Server_introduce/adventure.md)
+  - - [🍉繁花星梦·养老篇](/Server_introduce/Retirement.md)
+  - - [💻管理员](/Server_introduce/administrators.md)
+  - - [💸本服赞助](/Server_introduce/sponsor.md)
+  - - [💳️费用公示单](/Server_introduce/Configuration_and_cost_list.md)
+  - - [🆕NEW更新报告](/Server_introduce/update.md)
+- **新人手册**
+  - [📄新人手册2.0](/tutorial/README.md)
+- **指令列表**
+  - [📜指令列表](/instructions/README.md)
+- **服务器规则**
+  - [📑服务器规则](/Server_rule/README.md)
+- **宣传片**
+  - [🍏B站宣传片](/disseminate/README.md)
+- **相关问题**
+  - [❗问题汇总](/Related_problem/Summary.md)
+  - [❓服务器为什么进不去](/Related_problem/problem.md)
+  - - [🐯教程A丨天虎篇](/Related_problem/connect_failed/A.md)
+  - - [😸教程B丨喵喵篇](/Related_problem/connect_failed/B.md)
+  - [🐛BUG合集](/Related_problem/BUG.md)
+- **小黑屋**
+  - [❌官方封禁黑名单列表](/Dark_room/Official_ban.md)
+  - [❌喵喵个人黑名单列表](/Dark_room/Meow_Personal_blacklist.md)
+  - [❎处罚记录表](/Dark_room/Punishment_Record_Form.md)
+- **正在进行的活动**
+  - [🌟国庆活动](/Ongoing_activities/National_Day_activities.md)
+  - [⭐长期活动](/Ongoing_activities/Long_term_activities.md)
