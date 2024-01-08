@@ -15,7 +15,7 @@ export default defineConfig({
   lang: "zh",
   themeConfig: {
     editLink: {
-      pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+      pattern: 'https://github.com/MGHYGitHub/FHXM-WIKI/edit/main/:path',
       text: '在GitHub上编辑此页面'
     },
     // https://vitepress.dev/reference/default-theme-config
@@ -124,7 +124,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/MGHYGitHub/FHXM-WIKI' }
     ]
   },
 })
