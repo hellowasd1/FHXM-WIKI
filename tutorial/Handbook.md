@@ -1,7 +1,8 @@
 ## ID:253625256
+
 来自 253625256 玩家编辑的教程文档
 存放至微云
 
-![0](fhxm/img/0.jpg)
+![0](/fhxm/img/0.jpg)
 
-![1](fhxm/img/1.png)
+![1](/fhxm/img/1.png)
