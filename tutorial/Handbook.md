@@ -2,8 +2,6 @@
 来自 253625256 玩家编辑的教程文档
 存放至微云
 
-`奖励1w金币`
+![0](fhxm/img/0.jpg)
 
-![](fhxm/img/0.jpg)
-
-![](fhxm/img/1.png)
+![1](fhxm/img/1.png)
