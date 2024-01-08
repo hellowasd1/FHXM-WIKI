@@ -10,7 +10,7 @@ title: WIKI介绍
 
  **编写者寄语**<br>
 
- 这是基于Github所搭建的Wiki版面,用来繁花星梦的各种事项等-MiaoMiao所有<br>
+ 这是基于Github所搭建的Wiki版页面,用来繁花星梦的各种事项等-MiaoMiao所有<br>
 
  任何编写私聊本喵进行修改及其纠正--或者自行提交[**Issues**](https://github.com/MGHYGitHub/FHXM-WIKI/issues)
 
