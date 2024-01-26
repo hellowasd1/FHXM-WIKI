@@ -46,6 +46,7 @@ export default defineConfig({
         items: [
           { text: "📄新人手册3.0", link: "/tutorial/README" },
           { text: "📄新人手册2.0-来自253625256", link: "/tutorial/Handbook" },
+          { text: "📄生电区审核", link: "/tutorial/Examine" },
         ],
       },
       {
