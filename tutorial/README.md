@@ -24,6 +24,9 @@
 [注册]   **/reg 114514 114514**
 
 [登录]   **/l 114514**
+这是个l‘L’不是1!不是1不是1
+[OD~WVWWAVA@~2PQQO$_J05E](https://github.com/MGHYGitHub/FHXM-WIKI/assets/166196063/20680d5f-65bc-4c78-92dc-aea9dbfc7f21)
+咱就是说这俩玩意长得一样？
 
 ![D](/fhxm/D/D2.png)
 
