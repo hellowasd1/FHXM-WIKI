@@ -24,6 +24,9 @@
 [注册]   **/reg 114514 114514**
 
 [登录]   **/l 114514**
+这是个l你键盘第二行最右边那个l不是1！不是1！不是1！
+![OD~WVWWAVA@~2PQQO$_J05E](https://github.com/MGHYGitHub/FHXM-WIKI/assets/166196063/032e1462-1b27-4e09-8913-7efad76b4b4e)
+这俩玩意一点也不像好吗
 
 ![D](/fhxm/D/D2.png)
 
